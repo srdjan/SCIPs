@@ -6,7 +6,7 @@ People wishing to submit SCIPs first should propose their idea an issue or docum
 # Contributing
 First review [SCIP-1](SCIPS/scip-1.mediawiki). Then clone the repository and add your SCIP to it. There is a [template SCIP here](scip-X.mediawiki). Then submit a Pull Request to Ethereum's [SCIPs repository](https://github.com/StarkCollective/SCIPs).
 
-# Current EIPS
+# Current SCIPS
 | Number        |Title         | Author | Type  | Layer        | Status / Discussion | 
 | ------------- | ------------ | ------ | ----- | -------------| ------------------- |
 | [1](EIPS/eip-1.mediawiki)    | SCIP Purpose and Guidelines | Ari Ramdial | Meta | | Active |
