@@ -1,5 +1,5 @@
 <pre>
-  EIP: <SCIP number>
+  SCIP: <SCIP number>
   Title: <SCIP title>
   Author: <list of authors' real names and optionally, email addrs>
   Discussions-To: <email address>
