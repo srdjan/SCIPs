@@ -1,6 +1,3 @@
-# EIP
-
-
 # EIP [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/EIPs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 The Stark Collective Improvement Proposal. EIPs propose and describe changes made to Stark Collective.
 
