@@ -1,6 +1,4 @@
-# SCIP
-=======
-[![Join the chat at https://gitter.im/StarkCollective/SCIPs](https://badges.gitter.im/StarkCollective/SCIPs.svg)](https://gitter.im/StarkCollective/SCIPs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# SCIP [![Join the chat at https://gitter.im/StarkCollective/SCIPs](https://badges.gitter.im/StarkCollective/SCIPs.svg)](https://gitter.im/StarkCollective/SCIPs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The Stark Collective Improvement Proposal. SCIPs propose and describe changes made to Stark Collective.
 
