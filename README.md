@@ -9,11 +9,11 @@ First review [SCIP-1](SCIPS/scip-1.mediawiki). Then clone the repository and add
 # Current SCIPS
 | Number        |Title         | Author | Type  | Layer        | Status / Discussion | 
 | ------------- | ------------ | ------ | ----- | -------------| ------------------- |
-| [1](EIPS/eip-1.mediawiki)    | SCIP Purpose and Guidelines | Ari Ramdial | Meta | | Active |
-| [2](EIPS/eip-2.mediawiki)    | Homestead Hard-fork Changes | Miqdad | Standard | homestead (hard-fork) | Accepted |
-| [3](EIPS/eip-3.mediawiki)    | Addition of CALLDEPTH opcode | Nadim Islam | Standard | Consensus (hard-fork) | [Draft](https://github.com/ethereum/EIPs/issues/25) |
-| [4](EIPS/eip-4.mediawiki)    | EIP Classification | Joseph Chow | Meta | | Draft |
-| [5](EIPS/eip-5.md)    | Gas Usage for `RETURN` and `CALL*` | Christian Reitwiessner | Standard | Consensus (hard-fork) | [Draft](https://github.com/ethereum/EIPs/issues/8) |
-| [6](EIPS/eip-6.md)    | Renaming Suicide Variable | Hudson Jameson | Meta |  | [Draft](https://github.com/ethereum/EIPs/pull/42) |
-| [7](EIPS/eip-7.md)    | DELEGATECALL | Vitalik Buterin | Standard | homestead (hard-fork) | [Accepted](https://github.com/ethereum/EIPs/issues/23) |
-| [8](EIPS/eip-8.md)    | devp2p Forward Compatibility Requirements for Homestead | Felix Lange | Standard | Networking | [Accepted](https://github.com/ethereum/EIPs/pull/49) |
+| [1](SCIPS/scip-1.mediawiki)    | SCIP Purpose and Guidelines | Ari Ramdial | Meta | | Active |
+| [2](SCIPS/scip-2.mediawiki)    | Homestead Hard-fork Changes | Miqdad Amirali| Standard | homestead (hard-fork) | Accepted |
+| [3](SCIPS/scip-3.mediawiki)    | Addition of CALLDEPTH opcode | Nadim Islam | Standard | Consensus (hard-fork) | [Draft](https://github.com/ethereum/EIPs/issues/25) |
+| [4](SCIPS/scip-4.mediawiki)    | EIP Classification | Joseph Chow | Meta | | Draft |
+| [5](SCIPS/scip-5.md)    | Gas Usage for `RETURN` and `CALL*` | Christian Reitwiessner | Standard | Consensus (hard-fork) | [Draft](https://github.com/ethereum/EIPs/issues/8) |
+| [6](SCIPS/scip-6.md)    | Renaming Suicide Variable | Hudson Jameson | Meta |  | [Draft](https://github.com/ethereum/EIPs/pull/42) |
+| [7](SCIPS/scip-7.md)    | DELEGATECALL | Vitalik Buterin | Standard | homestead (hard-fork) | [Accepted](https://github.com/ethereum/EIPs/issues/23) |
+| [8](SCIPS/scip-8.md)    | devp2p Forward Compatibility Requirements for Homestead | Felix Lange | Standard | Networking | [Accepted](https://github.com/ethereum/EIPs/pull/49) |
