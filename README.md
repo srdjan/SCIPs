@@ -1,4 +1,4 @@
-# SCIP [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/StarkCollective/SCIPs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# SCIP
 The Stark Collective Improvement Proposal. SCIPs propose and describe changes made to Stark Collective.
 
 People wishing to submit SCIPs first should propose their idea an issue or document as pull request. After discussion it will be published here. We are fairly liberal with approving SCIPs and try not to be too involved in decision making on behalf of the community. Having an SCIP here does not make it a formally accepted standard until its status becomes Active. For a SCIP to become Active requires the mutual consent of the community. Those proposing changes should consider that ultimately consent may rest with the consensus of the Ethereum users.
