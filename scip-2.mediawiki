@@ -1,0 +1,22 @@
+<pre>
+  SCIP: 2
+  Title: Homestead Hard-fork Changes
+  Author: Miqdad Amirali
+  Discussions-To: miqdad.amirali@gmail.com
+  Status: Draft
+  Type: <Standards Track | Informational | Process>
+  Created: 2016-10-01
+  Replaces: <SCIP number>
+  Superseded-By: <SCIP number>
+  Resolution: <url>
+</pre>
+
+==Abstract==
+
+==Motivation==
+
+==Specification==
+
+==Rationale==
+
+==Implementation==
