@@ -1,6 +1,6 @@
 <pre>
   SCIP: 2
-  Title: Homestead Hard-fork Changes
+  Title: Member Role
   Author: Miqdad Amirali
   Discussions-To: miqdad.amirali@gmail.com
   Status: Draft
@@ -11,12 +11,47 @@
   Resolution: <url>
 </pre>
 
-==Abstract==
+==Positions==
+===Chapter Leader (CL): ===
+:The primary role of the Chapter leader is to oversee the progress made by the team, maintain relationships with other Chapters and answer to the WearHacks management team. A Chapter Leader will also work with the team to set deadlines, promote WearHacks within their city, find venues for Hackathons and local events and always be quick to respond in emergencies
+Core competencies: Organized, Leadership, Management, Professionalism, 
+====VP Chapter:====
+::The VP Chapter will closely work with the CL and learn in preparation to be the next Chapter lead. The VP Chapter must be social with event participants and volunteers, reach out to local communities and get them hyped about the event. VP Chapter will also maintain all Chapter ties and seek to find new ones.
+Core competencies: Organized, Social, Management, Professionalism
 
-==Motivation==
+===VP Internal:===
+:Work internally within the team, the VP Internal will set meeting and take minutes, organize events for the team, make sure team is communicating well, maintain shared documents, organize team work sessions and be in contact with other Chapter VP Internals to organize group events.
+Core competencies: Organized, Social, Management, Communication 
 
-==Specification==
+===VP Finance:===
+:VP Finance will have to account Chapter income and spending, divide money based on events, generates invoices for sponsors, budget team spending, and work with banks. The VP Finance must be quick to respond and available during the day time to sign any documents regarding spending.
+Core competencies: Organized, Management, Professionalism, Honesty, Ethics
 
-==Rationale==
+===VP Technology:===
+:Responsible for everything technology. The VP Tech will manage the Chapter website and server on which they are hosted. Will build a registration system for the hackathon and Google Forms/Type Forms for local events. Will also have to manage service integration software (Slack, Emails, GitHub, etc.), the team emails and bring the Hardware to the local hackathons. The ideal candidate should be fast to reply during emergency and familiar with the hardware to fix if any issues.
+Director of Tech:
+- Will work closely with the VP Tech in managing the websites and servers. Candidate must be a fast learner to eventually take on the role of the VP. Must have knowledge of Website management and Hardware Technology
 
-==Implementation==
+
+===VP Sponsorship:===
+:The VP Sponsorship’s role is to approach companies and promote the event and get them as sponsors for the event. VP Sponsorship will work with the WearHacks team to design Sponsorship Tiers for companies to join. Works closely with the VP Finance to be sure the money is received and the companies receive their invoices within a timely manner. The ideal candidate must be professional, prepared to meet with companies and answer any questions the companies may have. VP Sponsorship will also work closely with the company representatives during the event.
+Director of Sponsorship
+- Assist the VP Sponsorship in finding and contacting potential sponsors. The director of sponsorship will also attend the meetings with the VP and be social with the company representatives during the event.
+
+===VP Communication:===
+:Responsible in maintaining relationship with Sponsors after they have joined. Answering to questions asked by people through emails. The candidate will be a professional and punctual person who will communicate with companies who may inquire about WearHacks. The role of the VP includes generating and emailing newsletter and having this information updated on the site with the help of the VP Technology
+
+===VP Design:===
+:Responsible for everything design. The VP Design will design the main page of the website as well as the posters for the main Hackathon and other local events, email signatures, t-shirt designs for the event.
+
+===VP Logistics:===
+:Responsible for bringing all the swag to the events. Works closely with the VP Finance and Design to purchase items and design anything brought to the event. Ideal candidate should have a license to drive around to purchase items.
+
+===VP Academics:===
+:The VP Academic’s role includes organizing tutorials, tech talks, and workshops. The ideal candidate will attend events around their city to build a network, understand trending topics and promote WearHacks events. The VP Academics will also find venues for these events.
+
+===VP Public relations:===
+:VP Public Relations will manage the team’s social medias. Updating the content and using social media as a means of promoting. The VP Public relations will also work with Newspapers, Televisions and Radio stations to talk about the WearHacks, their local Chapter and the events happening across WearHacks chapters.
+
+===Mentors(x3)===
+:Mentors help guide the team members through advices on what to do and what not to.
