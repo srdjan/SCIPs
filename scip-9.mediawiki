@@ -1,0 +1,51 @@
+<pre>
+  SCIP: X
+  Title: Member Role
+  Author: Miqdad Amirali
+  Discussions-To: miqdad.amirali@gmail.com
+  Status: Draft
+  Type: <Standards Track | Informational | Process>
+  Created: 2016-10-05
+  Replaces: <SCIP number>
+  Superseded-By: <SCIP number>
+  Resolution: <url>
+</pre>
+
+==Title==
+:Title of the project
+
+==Abstract==
+:A brief abstract about the project
+
+==Problem==
+:Discuss the problem the project is targetting to solve
+
+==Solution==
+:Briefly summarize the solution implemented to resolve the problem
+
+==Role and Responsibilities==
+===Product Owner===
+===Scrum Master===
+===Scrum Team===
+====Senior Developer(s) ====
+====Designer====
+====Communications====
+====Developer====
+
+==Team meetings==
+===Scrum Durations===
+===Daily scrum meetings===
+===Planning===
+===Estimations===
+===Retrospectives===
+
+==Technologies used==
+===Front End===
+===Back End===
+===Databases===
+===Framework===
+===Primary programming languages===
+===Libraries===
+===Other===
+
+==Contact info==
