@@ -28,7 +28,7 @@ Core competencies: Organized, Social, Management, Communication
 Core competencies: Organized, Management, Professionalism, Honesty, Ethics
 
 ===VP Technology:===
-:Responsible for everything technology. The VP Tech will manage the Chapter website and server on which they are hosted. Will build a registration system for the hackathon and Google Forms/Type Forms for local events. Will also have to manage service integration software (Slack, Emails, GitHub, etc.), the team emails and bring the Hardware to the local hackathons. The ideal candidate should be fast to reply during emergency and familiar with the hardware to fix if any issues.
+:Responsible for everything technology. The VP Tech will manage the Chapter website and server on which they are hosted. Will build a registration system for the hackathon and Google Forms/Type Forms for local events. Will also have to manage service integration software (Slack, Emails, GitHub, etc.), the team emails and bring the Hardware to the local hackathons. The ideal candidate should be fast to reply during an emergency and familiar with the hardware to fix if any issues.
 Director of Tech:
 - Will work closely with the VP Tech in managing the websites and servers. Candidate must be a fast learner to eventually take on the role of the VP. Must have knowledge of Website management and Hardware Technology
 
@@ -38,19 +38,19 @@ Director of Sponsorship
 - Assist the VP Sponsorship in finding and contacting potential sponsors. The director of sponsorship will also attend the meetings with the VP and be social with the company representatives during the event.
 
 ===VP Communication:===
-:Responsible in maintaining relationship with Sponsors after they have joined. Answering to questions asked by people through emails. The candidate will be a professional and punctual person who will communicate with companies who may inquire about WearHacks. The role of the VP includes generating and emailing newsletter and having this information updated on the site with the help of the VP Technology
+:Responsible for maintaining a relationship with Sponsors after they have joined. Answering to questions asked by people through emails. The candidate will be a professional and punctual person who will communicate with companies who may inquire about WearHacks. The role of the VP includes generating and emailing newsletter and having this information updated on the site with the help of the VP Technology
 
 ===VP Design:===
 :Responsible for everything design. The VP Design will design the main page of the website as well as the posters for the main Hackathon and other local events, email signatures, t-shirt designs for the event.
 
 ===VP Logistics:===
-:Responsible for bringing all the swag to the events. Works closely with the VP Finance and Design to purchase items and design anything brought to the events. Ideal candidate will be social and entertain the attendees and should have a license to drive around to purchase items.
+:Responsible for bringing all the swag to the events. Works closely with the VP Finance and Design to purchase items and design anything brought to the events. The ideal candidate will be social and entertain the attendees and should have a license to drive around to purchase items.
 
 ===VP Academics:===
 :The VP Academic’s role includes organizing tutorials, tech talks, and workshops. The ideal candidate will attend events around their city to build a network, understand trending topics and promote WearHacks events. The VP Academics will also find venues for these events.
 
 ===VP Public relations:===
-:VP Public Relations will manage the team’s social medias. Updating the content and using social media as a means of promoting. The VP Public relations will also work with Newspapers, Televisions and Radio stations to talk about the WearHacks, their local Chapter and the events happening across WearHacks chapters.
+:VP Public Relations will manage the team’s social medias. Updating the content and using social media as a means of promoting. The VP Public relations will also work with Newspapers, Televisions and Radio stations to talk about the WearHacks, their local Chapter, and the events happening across WearHacks chapters.
 
 ===Mentors(x3)===
-:Mentors help guide the team members through advices on what to do and what not to.
+:Mentors help guide the team members through advice on what to do and what not to.
