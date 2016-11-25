@@ -12,10 +12,4 @@ First review [SCIP-1](SCIPS/scip-1.mediawiki). Then clone the repository and add
 | ------------- | ------------ | ------ | ----- | -------------| ------------------- |
 | [1](scip-1.mediawiki)    | SCIP Purpose and Guidelines | Ari Ramdial | Meta | | Active |
 | [2](scip-2.mediawiki)    | Member role | [Miqdad Amirali](https://github.com/miqdadamirali)| Standard | member role | Accepted |
-| [3](scip-3.mediawiki)    | Addition of CALLDEPTH opcode | Nadim Islam | Standard | Consensus (hard-fork) | [Draft](https://github.com/ethereum/EIPs/issues/25) |
-| [4](scip-4.mediawiki)    | EIP Classification | Joseph Chow | Meta | | Draft |
-| [5](scip-5.mediawiki)    | Gas Usage for `RETURN` and `CALL*` | Christian Reitwiessner | Standard | Consensus (hard-fork) | [Draft](https://github.com/ethereum/EIPs/issues/8) |
-| [6](scip-6.mediawiki)    | Renaming Suicide Variable | Hudson Jameson | Meta |  | [Draft](https://github.com/ethereum/EIPs/pull/42) |
-| [7](scip-7.mediawiki)    | DELEGATECALL | Vitalik Buterin | Standard | homestead (hard-fork) | [Accepted](https://github.com/ethereum/EIPs/issues/23) |
-| [8](scip-8.mediawiki)    | devp2p Forward Compatibility Requirements for Homestead | Felix Lange | Standard | Networking | [Accepted](https://github.com/ethereum/EIPs/pull/49) |
-| [9](scip-9.mediawiki)    | Project Blueprint | [Miqdad Amirali](https://github.com/miqdadamirali)| Standard | member role | Draft |
+| [3](scip-9.mediawiki)    | Project Blueprint | [Miqdad Amirali](https://github.com/miqdadamirali)| Standard | member role | Draft |
