@@ -10,6 +10,6 @@ First review [SCIP-1](SCIPS/scip-1.mediawiki). Then clone the repository and add
 # Current SCIPS
 | Number        |Title         | Author | Type  | Layer        | Status / Discussion |
 | ------------- | ------------ | ------ | ----- | -------------| ------------------- |
-| [1](scip-1.mediawiki)    | SCIP Purpose and Guidelines | Ari Ramdial | Meta | | Active |
-| [2](scip-2.mediawiki)    | Member role | [Miqdad Amirali](https://github.com/miqdadamirali)| Standard | member role | Accepted |
-| [3](scip-3.mediawiki)    | Project Blueprint | [Miqdad Amirali](https://github.com/miqdadamirali)| Standard | member role | Draft |
+| [1](scip-1.mediawiki)    | [SCIP Purpose and Guidelines](scip-1.mediawiki) | Ari Ramdial | Meta | | Active |
+| [2](scip-2.mediawiki)    | [Member role](scip-2.mediawiki) | [Miqdad Amirali](https://github.com/miqdadamirali)| Standard | member role | Accepted |
+| [3](scip-3.mediawiki)    | [Project Blueprint](scip-3.mediawiki) | [Miqdad Amirali](https://github.com/miqdadamirali)| Standard | member role | Draft |
