@@ -1,6 +1,6 @@
 <pre>
-  SCIP: X
-  Title: Member Role
+  SCIP: 3
+  Title: Project Blueprint
   Author: Miqdad Amirali
   Discussions-To: miqdad.amirali@gmail.com
   Status: Draft
