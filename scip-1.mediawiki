@@ -23,9 +23,9 @@ SCIPs are intend to replace the venerable etherpads which described the initial 
 
 There are three kinds of SCIP:
 
-* A Standard Track SCIP describes any change that affects most or all Stark Collective implementations, such as a change to the [https://github.com/Stark Collective/yellowpaper Yellow Paper], the network protocol, a change in block or transaction validity rules, or any change or addition that affects the interoperability of applications using Stark Collective. Furthermore Standard SCIPs can be broken down into the following categories.
-** Consensus - Once PoS has been established it is expected that PoS protocol will have a separate specification.
-** Networking - Currently Networking discussion tracks in the [https://github.com/Stark Collective/devp2p devp2p repository].
+* A Standard Track SCIP describes any change that affects most or all Stark Collective implementations, such as a change to [https://github.com/StarkCollective/Governance]. Furthermore Standard SCIPs can be broken down into the following categories.
+** Governance - Once PoS has been established it is expected that PoS protocol will have a separate specification.
+** Member Roles - Currently Member Role discussions are tracked in [https://chat.starkcollective.com/home].
 
 * An Informational SCIP describes a Stark Collective design issue, or provides general guidelines or information to the Stark Collective community, but does not propose a new feature. Informational SCIPs do not necessarily represent Stark Collective community consensus or a recommendation, so users and implementors are free to ignore Informational SCIPs or follow their advice.
 * A Meta SCIP describes a process surrounding Stark Collective or proposes a change to (or an event in) a process. Process SCIPs are like Standards Track SCIPs but apply to areas other than the Stark Collective protocol itself. They may propose an implementation, but not to Stark Collective's codebase; they often require community consensus; unlike Informational SCIPs, they are more than recommendations, and users are typically not free to ignore them. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in Stark Collective development. Any meta-SCIP is also considered a Process SCIP.
